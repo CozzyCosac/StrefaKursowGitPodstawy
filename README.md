@@ -5,3 +5,4 @@ Nauka podstaw GIT
 
 ---
 Dodane zmiany z poziomu Visual Studio Code
+coś sobiem piszem 
